@@ -1,6 +1,8 @@
 ---
+layout: post
 title: "一元线性回归方程详解"
 date: 2023-10-01
+categories: blog
 ---
 
 ## 一元线性回归方程详解
