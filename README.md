@@ -14,7 +14,7 @@
    git clone https://github.com/<你的用户名>/<你的仓库名>.git
    ```
 2. 访问博客网站：
-   - 打开浏览器，访问 [GitHub Pages](https://<你的用户名>.github.io)。
+   - 打开浏览器，访问 [GitHub Pages](https://masterlyj.github.io/-.github.io/)。
 
 ## 贡献
 
