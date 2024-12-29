@@ -5,7 +5,7 @@
 ## 博客内容
 
 以下是一些已发布的博客文章：
-- [一元线性回归方程详解](_posts/2023-10-01-linear-regression.md)
+- [一元线性回归方程详解](https://masterlyj.github.io/-.github.io/2023/10/01/linear-regression.html)
 
 ## 如何使用
 
